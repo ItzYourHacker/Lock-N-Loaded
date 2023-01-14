@@ -1,1 +1,2 @@
-# Astroz
+# Astroz Docs
+Documentation of Astroz
