@@ -54,7 +54,7 @@ Ask server mod(s) to remove the logged message or just wait for 24 hours, after 
 
 # Security
 
-We take steps to ensure data provided from Astroz is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free. 
+We take steps to ensure data provided from Lock N Loaded is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free. 
 
 # HOW CAN I CONTACT YOU?
 
