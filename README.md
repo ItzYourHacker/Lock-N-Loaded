@@ -1,2 +1,2 @@
-# Astroz Docs
-Documentation of Astroz
+# Lock N Loaded Docs
+Documentation of Lock N Loaded
