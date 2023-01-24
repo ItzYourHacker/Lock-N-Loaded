@@ -1,8 +1,8 @@
 # Statement
 
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Astroz or servers where Astroz is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Lock N Loaded or servers where Lock N Loaded is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Astroz to your Discord server, you agree that you have read and agree to this policy.
+Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Lock N Loaded to your Discord server, you agree that you have read and agree to this policy.
 
 # What does it store?
 
@@ -14,7 +14,7 @@ Few parts of message content for logging system.
 
 Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Astroz's users.
 
-The information we collect when you vote for Astroz on the third-party website Discord bot list
+The information we collect when you vote for Lock N Loaded on the third-party website Discord bot list
 
 Your Username
 
