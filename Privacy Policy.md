@@ -12,7 +12,7 @@ User IDs to keep a record of afk, warn, mute.
 
 Few parts of message content for logging system.
 
-Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Astroz's users.
+Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Lock N Loaded's users.
 
 The information we collect when you vote for Lock N Loaded on the third-party website Discord bot list
 
